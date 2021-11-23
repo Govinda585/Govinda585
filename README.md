@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Govinda585
 - 👀 I’m interested in JavaScript
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning Node JS
 - 💞️ I’m looking to collaborate on Web Applicaiton
 - 📫 How to reach me 
 @govindabist11 twitter
